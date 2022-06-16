@@ -75,6 +75,7 @@ class Solution:
         return result
 
 
+
 #question link: https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
 class Solution:
     def partitionArray(self, nums, k):
